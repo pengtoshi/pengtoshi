@@ -40,6 +40,9 @@ I build user-friendly products that make crypto more accessible.
 
 ### 🥇 Hackathons
 
+- **ETHTaipei 2025 : [Vault Royale](https://github.com/pengtoshi/vault-royale-monorepo)** <br>
+  Ultimate battleground for AI-powered yield vaults.
+
 - **ETHBangkok 2024 : [Planty](https://github.com/pengtoshi/planty-frontend)** 🏆🏆🏆 <br>
   Tokenized rare plant investment ecosystem that bridges the gap between skilled plant managers and investors.
 
@@ -48,6 +51,9 @@ I build user-friendly products that make crypto more accessible.
 
 - **ETHSeoul 2023 : [WalletMetrics](https://github.com/pengtoshi/walletmetrics-server)** 🏆 <br>
   Code-free product analytics dashboard builder for DApps.
+
+- **BNB Chain Hackathon Korea : [Fantosi](https://github.com/Fantosi/Fantosi)**<br>
+  Blockchain-based transparent fund management and governance platform for K-pop fan communities
 
 - **Dreamplus Blockchain Hackathon 2022 : [VALIDATOR](https://github.com/pengtoshi/validator-backend)** 🏆 <br>
   Web3 whoscall-like service to detect phishing and scam links in blockchain.
